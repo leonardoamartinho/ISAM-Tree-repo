@@ -1,0 +1,22 @@
+ 1000                          Norma Evangelista Noronha  2000.00f
+ 1048                           Vitoria Teles Encarnacao  5500.00f
+ 1134                                   Marcos Hernandez 10000.00f
+ 1144                                   Diva Dias Kohler  5500.00f
+ 1156                               Andre Iglesias Nunes  2000.00f
+ 1217                                    Dolores Pereira  8500.00f
+ 1253                                Olga Souza Monteiro  2500.00f
+ 1284                               Rogeria Xavi Marques 18000.00f
+ 1299                                        Felix Uchoa  6500.00f
+ 1377                                 Ziraldo Zahn Jesus 15000.00f
+ 1404                                     Tabata Almeida  4500.00f
+ 1414                               Bruna Andrade Garcia  9000.00f
+ 1442                              Quesia Trindade Leite  8000.00f
+ 1463                                  Lauro Kruger Rios 10000.00f
+ 1474                              Jonas Rodrigues Nunes  8000.00f
+ 1511                            Fabiola Keller Monteiro  3500.00f
+ 1610                               Ivo Encarnacao Leite 13000.00f
+ 1617                           Lurdes da Silva da Costa  9000.00f
+ 1708                                    Henrique Keller  9000.00f
+ 1805                            Drauzio Ullmann Noronha  9000.00f
+ 1002                                           Leonardo  2000.00f
+ 3000                                              Lucas  2000.00f
